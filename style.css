@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+
+}
+h1{
+    color: black;
+    text-align: center;
+    background-color: chartreuse;
+}
+div{
+    border: 10px;
+    border-color: solid black;
+}
