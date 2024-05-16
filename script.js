@@ -8,4 +8,7 @@ addEventListener('submit',function(e){
     var body="Name:"+name+"\nEmail:"+email+"\nMessage:"+message;
     var mailto_link='mailto:nagashree.kanavalli@gmail.com'+'?subject='+subject+'&body='+encodeURIComponent(body);
     window.location.href=mailto_link;
+
+
+
 })
